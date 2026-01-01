@@ -1,0 +1,49 @@
+p.Address {
+    margin-left: 0.50in;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Times New Roman (Body CS);
+    font-size: 10pt;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
+    font-weight: bold;
+}
+p.Closing {
+    margin-left: 0.50in;
+    margin-right: 0.50in;
+    margin-top: 24pt;
+    margin-bottom: 48pt;
+    font-size: 10pt;
+    color: #595959;
+}
+p.Salutation {
+    margin-left: 0.50in;
+    margin-right: 0.50in;
+    margin-top: 36pt;
+    margin-bottom: 18pt;
+    font-size: 10pt;
+    color: #000000;
+}
+p.Subtitle {
+    margin-left: 0.50in;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Times New Roman (Body CS);
+    font-size: 10pt;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
+    font-weight: bold;
+}
+body {
+    font-size: 12pt;
+    font-family: Posterama;
+}
+.position-relative {
+position:relative;
+}
+span { white-space: pre-wrap;
+}

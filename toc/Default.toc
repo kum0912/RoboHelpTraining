@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+<page href="../contents/First_Topic.htm"></page>
+<book navtitle="RH_Sample" format="html" processing-role="normal" generation-src="word">
+  <page href="../contents/RH_Documents/RH_Sample.htm" format="html" processing-role="normal"></page>
+</book>
+</map>
